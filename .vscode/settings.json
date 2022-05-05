@@ -1,0 +1,10 @@
+{
+    "idf.adapterTargetName": "custom",
+    "idf.openOcdConfigs": [
+        "interface/ftdi/esp32_devkitj_v1.cfg",
+        "target/esp32s2.cfg"
+    ],
+    "idf.portWin": "COM4",
+    "idf.customAdapterTargetName": "ESP8266",
+    "idf.flashType": "JTAG"
+}
